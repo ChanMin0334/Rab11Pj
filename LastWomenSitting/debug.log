@@ -1,0 +1,2 @@
+[1026/202616.280:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ì—„ì¤€ì‹\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\44cf71f3-29dc-4f7b-a8ff-429beb710cef: ÁöÁ¤µÈ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. (0x3)
+[1026/202616.282:ERROR:directory_reader_win.cc(43)] FindFirstFile: ÁöÁ¤µÈ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. (0x3)
